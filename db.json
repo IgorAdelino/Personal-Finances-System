@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "name": "Salary",
+      "amount": 10000,
+      "id": 8
+    },
+    {
+      "name": "electricity bill",
+      "amount": -200,
+      "id": 9
+    },
+    {
+      "name": "water bill",
+      "amount": -100,
+      "id": 10
+    },
+    {
+      "name": "car installment",
+      "amount": -2500,
+      "id": 11
+    },
+    {
+      "name": "loan",
+      "amount": 1000,
+      "id": 12
+    }
+  ]
+}
